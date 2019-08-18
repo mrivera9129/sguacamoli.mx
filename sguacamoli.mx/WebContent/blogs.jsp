@@ -127,7 +127,6 @@
 							<h4 class="card-title">
 								<a href="receta.jsp">¿Tacos Rojos?</a>
 							</h4>
-							<h5>Origen: Guadalajara</h5>
 							<p class="card-text">Lorem ipsum dolor sit amet, consectetur
 								adipisicing elit. Amet numquam aspernatur!</p>
 						</div>
@@ -142,7 +141,6 @@
 							<h4 class="card-title">
 								<a href="receta.jsp">¿Que beneficios se obtiene de las ensaladas?</a>
 							</h4>
-							<h5>Origen: Guadalajara</h5>
 							<p class="card-text">Lorem ipsum dolor sit amet, consectetur
 								adipisicing elit. Amet numquam aspernatur!</p>
 						</div>
