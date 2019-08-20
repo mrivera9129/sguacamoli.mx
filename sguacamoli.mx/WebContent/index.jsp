@@ -46,6 +46,9 @@
 .img-fluid {
 	height: 305px;
 }
+.c{
+	color: red;
+}
 </style>
 
 </head>
