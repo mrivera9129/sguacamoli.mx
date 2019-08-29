@@ -11,7 +11,7 @@
 <meta name="description" content="">
 <meta name="author" content="">
 
-<title>Guacamoli.mx - Gastronomía Mexicana</title>
+<title>Guacamoli.mx - Gastronomía Mexicana!!!!</title>
 <link rel="icon" type="image/png"
 	href="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/16/Mexico-icon.png" />
 <!-- Font Awesome Icons -->
